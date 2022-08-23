@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    .nav-form{
+    position: relative;
+    }
+    .search-icon{
+    position: absolute;
+    right: 10px;
+    top: 7px;
+    }
+    .nav-item-activ,
+    .nav-item:hover{
+    background-color: #F95252;
+    }
+    .carousel-caption{
+    position: relative;
+    top: 35%;
+    }
+    .carusel-cuption-text{
+    font-size: 150px;
+    line-height: 176px;
+    }
+
+    .section-card-img{
+    width: 300px;
+    height: 200px;
+    }
+    .section-card{
+    width: 300px !important;
+    border-radius: 15px;    
+}
+.section-card-icon{
+width: 90px;
+height: 90px;
+border-radius: 90%;
+
+}
+footer{
+background-color: #00264F;
+}
